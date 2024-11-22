@@ -62,11 +62,13 @@ A personalized web-based application designed to recommend diet and exercise pla
 
 ### Home Page
 
-![Uploading Screenshot 2024-11-22 at 7.57.55 PM.png…]()
+<img width="1440" alt="Screenshot 2024-11-22 at 8 01 33 PM" src="https://github.com/user-attachments/assets/ed335cb9-196b-4f26-aecf-3d5788654b85">
+
 
 ### Personalized Results
 
-![Uploading Screenshot 2024-11-22 at 7.58.42 PM.png…]()
+
+<img width="1440" alt="Screenshot 2024-11-22 at 8 00 35 PM" src="https://github.com/user-attachments/assets/9ce83ef9-7796-4742-b25e-ca74488def9e">
 
 ---
 
