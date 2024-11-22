@@ -61,10 +61,12 @@ A personalized web-based application designed to recommend diet and exercise pla
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](images/home_page.png)
+
+![Uploading Screenshot 2024-11-22 at 7.57.55 PM.png…]()
 
 ### Personalized Results
-![Results](images/results.png)
+
+![Uploading Screenshot 2024-11-22 at 7.58.42 PM.png…]()
 
 ---
 
